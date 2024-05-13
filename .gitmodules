@@ -1,0 +1,3 @@
+[submodule "dim-wish-list-sources"]
+	path = dim-wish-list-sources
+	url = https://github.com/48klocs/dim-wish-list-sources.git
